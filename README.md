@@ -17,8 +17,8 @@
 Настроены распознователи жестов (одиночное нажатие на ячейку коллекции с фотографиями и долгое нажатие на ячейку)<br/>
 Старался писать код по-взрослому: файлы по папочкам, final-классы, private переменные, константы вынес в Enums, переиспользование ячеек<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/72700393/141738354-564eae71-5d18-4c7c-b4b7-d6705194098b.PNG" width="200" />
-![IMG_8104](https://user-images.githubusercontent.com/72700393/141738354-564eae71-5d18-4c7c-b4b7-d6705194098b.PNG)<br/>
-![IMG_8105](https://user-images.githubusercontent.com/72700393/141738357-10dadd32-98ae-4908-93d3-1a21b54b5cfc.PNG)<br/>
-![IMG_8106](https://user-images.githubusercontent.com/72700393/141738369-417cba37-c76b-4db8-bd1d-c39cfc8c075e.PNG)<br/>
-![IMG_8107](https://user-images.githubusercontent.com/72700393/141738374-88fa9f0f-95da-418e-85d8-a14f56345da6.PNG)<br/>
+<img src="https://user-images.githubusercontent.com/72700393/141738354-564eae71-5d18-4c7c-b4b7-d6705194098b.PNG" width="200" /><br/>
+<img src="https://user-images.githubusercontent.com/72700393/141738357-10dadd32-98ae-4908-93d3-1a21b54b5cfc.PNG" width="200" /><br/>
+<img src="https://user-images.githubusercontent.com/72700393/141738369-417cba37-c76b-4db8-bd1d-c39cfc8c075e.PNG" width="200" /><br/>
+<img src="https://user-images.githubusercontent.com/72700393/141738374-88fa9f0f-95da-418e-85d8-a14f56345da6.PNG" width="200" /><br/>
+
